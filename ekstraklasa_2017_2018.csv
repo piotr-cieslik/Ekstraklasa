@@ -1,0 +1,297 @@
+"date","round","home","away","home_score","away_score"
+2017-07-16,1,"Arka Gdynia","Śląsk Wrocław",2,0
+2017-07-16,1,"Bruk-Bet Termalica Nieciecza","Jagiellonia Białystok",0,1
+2017-07-15,1,"Cracovia","Piast Gliwice",1,1
+2017-07-15,1,"Górnik Zabrze","Legia Warszawa",3,1
+2017-07-17,1,"Korona Kielce","Zagłębie Lubin",0,1
+2017-07-16,1,"Lech Poznań","Sandecja Nowy Sącz",0,0
+2017-07-14,1,"Pogoń Szczecin","Wisła Kraków",1,2
+2017-07-14,1,"Wisła Płock","Lechia Gdańsk",0,2
+2017-07-23,2,"Jagiellonia Białystok","Górnik Zabrze",2,1
+2017-07-22,2,"Lechia Gdańsk","Cracovia",0,1
+2017-07-22,2,"Legia Warszawa","Korona Kielce",1,1
+2017-07-22,2,"Piast Gliwice","Pogoń Szczecin",1,2
+2017-07-21,2,"Sandecja Nowy Sącz","Arka Gdynia",0,0
+2017-07-21,2,"Wisła Kraków","Bruk-Bet Termalica Nieciecza",1,0
+2017-07-23,2,"Wisła Płock","Lech Poznań",1,0
+2017-07-24,2,"Zagłębie Lubin","Śląsk Wrocław",1,0
+2017-07-30,3,"Arka Gdynia","Wisła Płock",1,1
+2017-07-28,3,"Bruk-Bet Termalica Nieciecza","Zagłębie Lubin",1,1
+2017-07-29,3,"Górnik Zabrze","Wisła Kraków",3,2
+2017-07-31,3,"Korona Kielce","Cracovia",4,2
+2017-07-30,3,"Lech Poznań","Piast Gliwice",5,1
+2017-07-29,3,"Legia Warszawa","Sandecja Nowy Sącz",2,0
+2017-07-30,3,"Pogoń Szczecin","Jagiellonia Białystok",0,1
+2017-07-28,3,"Śląsk Wrocław","Lechia Gdańsk",3,2
+2017-08-07,4,"Arka Gdynia","Korona Kielce",0,0
+2017-08-05,4,"Bruk-Bet Termalica Nieciecza","Legia Warszawa",1,0
+2017-08-06,4,"Cracovia","Lech Poznań",0,2
+2017-08-06,4,"Jagiellonia Białystok","Sandecja Nowy Sącz",1,3
+2017-08-05,4,"Lechia Gdańsk","Górnik Zabrze",1,1
+2017-08-04,4,"Piast Gliwice","Śląsk Wrocław",1,1
+2017-08-04,4,"Wisła Płock","Wisła Kraków",0,1
+2017-08-05,4,"Zagłębie Lubin","Pogoń Szczecin",3,0
+2017-08-13,5,"Górnik Zabrze","Arka Gdynia",1,1
+2017-08-13,5,"Korona Kielce","Jagiellonia Białystok",2,3
+2017-08-12,5,"Lech Poznań","Zagłębie Lubin",1,1
+2017-08-11,5,"Legia Warszawa","Piast Gliwice",3,1
+2017-08-14,5,"Pogoń Szczecin","Lechia Gdańsk",0,0
+2017-08-12,5,"Sandecja Nowy Sącz","Wisła Płock",0,1
+2017-08-15,5,"Śląsk Wrocław","Bruk-Bet Termalica Nieciecza",1,1
+2017-08-12,5,"Wisła Kraków","Cracovia",2,1
+2017-08-19,6,"Arka Gdynia","Pogoń Szczecin",0,3
+2017-08-20,6,"Bruk-Bet Termalica Nieciecza","Lech Poznań",1,3
+2017-08-18,6,"Cracovia","Górnik Zabrze",3,3
+2017-08-19,6,"Jagiellonia Białystok","Śląsk Wrocław",1,1
+2017-08-18,6,"Lechia Gdańsk","Sandecja Nowy Sącz",2,3
+2017-08-19,6,"Piast Gliwice","Korona Kielce",2,0
+2017-08-20,6,"Wisła Płock","Legia Warszawa",0,1
+2017-08-21,6,"Zagłębie Lubin","Wisła Kraków",3,0
+2017-08-25,7,"Górnik Zabrze","Wisła Płock",4,0
+2017-08-26,7,"Jagiellonia Białystok","Piast Gliwice",0,1
+2017-08-26,7,"Korona Kielce","Bruk-Bet Termalica Nieciecza",2,1
+2017-08-27,7,"Lech Poznań","Arka Gdynia",3,0
+2017-08-27,7,"Legia Warszawa","Zagłębie Lubin",2,1
+2017-08-27,7,"Sandecja Nowy Sącz","Pogoń Szczecin",2,1
+2017-08-25,7,"Śląsk Wrocław","Cracovia",2,1
+2017-08-26,7,"Wisła Kraków","Lechia Gdańsk",1,1
+2017-09-08,8,"Arka Gdynia","Wisła Kraków",3,1
+2017-09-10,8,"Bruk-Bet Termalica Nieciecza","Górnik Zabrze",1,2
+2017-09-09,8,"Cracovia","Jagiellonia Białystok",1,1
+2017-09-09,8,"Korona Kielce","Sandecja Nowy Sącz",1,0
+2017-09-11,8,"Piast Gliwice","Lechia Gdańsk",1,2
+2017-09-10,8,"Pogoń Szczecin","Lech Poznań",0,0
+2017-09-09,8,"Śląsk Wrocław","Legia Warszawa",2,1
+2017-09-08,8,"Zagłębie Lubin","Wisła Płock",2,2
+2017-09-15,9,"Arka Gdynia","Zagłębie Lubin",1,1
+2017-09-16,9,"Górnik Zabrze","Śląsk Wrocław",2,2
+2017-09-15,9,"Lech Poznań","Korona Kielce",1,0
+2017-09-18,9,"Lechia Gdańsk","Jagiellonia Białystok",3,3
+2017-09-17,9,"Legia Warszawa","Cracovia",1,0
+2017-09-17,9,"Sandecja Nowy Sącz","Bruk-Bet Termalica Nieciecza",1,0
+2017-09-16,9,"Wisła Kraków","Piast Gliwice",2,0
+2017-09-16,9,"Wisła Płock","Pogoń Szczecin",3,1
+2017-09-23,10,"Bruk-Bet Termalica Nieciecza","Lechia Gdańsk",2,1
+2017-09-25,10,"Cracovia","Wisła Płock",1,3
+2017-09-24,10,"Jagiellonia Białystok","Legia Warszawa",1,0
+2017-09-23,10,"Korona Kielce","Wisła Kraków",2,1
+2017-09-22,10,"Piast Gliwice","Arka Gdynia",0,1
+2017-09-23,10,"Pogoń Szczecin","Górnik Zabrze",1,2
+2017-09-22,10,"Śląsk Wrocław","Lech Poznań",2,0
+2017-09-24,10,"Zagłębie Lubin","Sandecja Nowy Sącz",1,0
+2017-09-29,11,"Arka Gdynia","Cracovia",1,1
+2017-10-01,11,"Górnik Zabrze","Piast Gliwice",1,0
+2017-10-01,11,"Lech Poznań","Legia Warszawa",3,0
+2017-09-30,11,"Lechia Gdańsk","Zagłębie Lubin",1,0
+2017-09-30,11,"Pogoń Szczecin","Korona Kielce",0,0
+2017-09-29,11,"Sandecja Nowy Sącz","Śląsk Wrocław",1,1
+2017-09-30,11,"Wisła Kraków","Jagiellonia Białystok",0,0
+2017-10-01,11,"Wisła Płock","Bruk-Bet Termalica Nieciecza",1,0
+2017-10-14,12,"Bruk-Bet Termalica Nieciecza","Arka Gdynia",1,1
+2017-10-16,12,"Cracovia","Pogoń Szczecin",3,0
+2017-10-13,12,"Jagiellonia Białystok","Lech Poznań",1,1
+2017-10-13,12,"Korona Kielce","Wisła Płock",2,0
+2017-10-15,12,"Legia Warszawa","Lechia Gdańsk",1,0
+2017-10-14,12,"Piast Gliwice","Sandecja Nowy Sącz",2,2
+2017-10-14,12,"Śląsk Wrocław","Wisła Kraków",0,2
+2017-10-15,12,"Zagłębie Lubin","Górnik Zabrze",3,2
+2017-10-22,13,"Arka Gdynia","Jagiellonia Białystok",4,1
+2017-10-20,13,"Górnik Zabrze","Korona Kielce",3,3
+2017-10-21,13,"Lechia Gdańsk","Lech Poznań",3,3
+2017-10-21,13,"Pogoń Szczecin","Bruk-Bet Termalica Nieciecza",2,3
+2017-10-21,13,"Sandecja Nowy Sącz","Cracovia",1,1
+2017-10-22,13,"Wisła Kraków","Legia Warszawa",0,1
+2017-10-23,13,"Wisła Płock","Śląsk Wrocław",4,1
+2017-10-20,13,"Zagłębie Lubin","Piast Gliwice",2,2
+2017-10-28,14,"Cracovia","Bruk-Bet Termalica Nieciecza",1,1
+2017-10-29,14,"Jagiellonia Białystok","Zagłębie Lubin",3,1
+2017-10-27,14,"Lech Poznań","Wisła Kraków",1,1
+2017-10-30,14,"Lechia Gdańsk","Korona Kielce",0,5
+2017-10-29,14,"Legia Warszawa","Arka Gdynia",2,0
+2017-10-28,14,"Piast Gliwice","Wisła Płock",2,1
+2017-10-28,14,"Sandecja Nowy Sącz","Górnik Zabrze",1,2
+2017-10-27,14,"Śląsk Wrocław","Pogoń Szczecin",3,0
+2017-11-03,15,"Arka Gdynia","Lechia Gdańsk",0,1
+2017-11-05,15,"Bruk-Bet Termalica Nieciecza","Piast Gliwice",2,1
+2017-11-04,15,"Górnik Zabrze","Lech Poznań",3,1
+2017-11-03,15,"Korona Kielce","Śląsk Wrocław",3,0
+2017-11-05,15,"Pogoń Szczecin","Legia Warszawa",1,3
+2017-11-04,15,"Wisła Kraków","Sandecja Nowy Sącz",3,0
+2017-11-04,15,"Wisła Płock","Jagiellonia Białystok",1,2
+2017-11-05,15,"Zagłębie Lubin","Cracovia",1,2
+2017-11-17,16,"Jagiellonia Białystok","Bruk-Bet Termalica Nieciecza",0,0
+2017-11-18,16,"Lechia Gdańsk","Wisła Płock",3,0
+2017-11-19,16,"Legia Warszawa","Górnik Zabrze",1,0
+2017-11-18,16,"Piast Gliwice","Cracovia",1,0
+2017-11-18,16,"Sandecja Nowy Sącz","Lech Poznań",0,0
+2017-11-19,16,"Śląsk Wrocław","Arka Gdynia",1,2
+2017-11-17,16,"Wisła Kraków","Pogoń Szczecin",1,0
+2017-11-20,16,"Zagłębie Lubin","Korona Kielce",0,0
+2017-11-25,17,"Arka Gdynia","Sandecja Nowy Sącz",5,0
+2017-11-27,17,"Bruk-Bet Termalica Nieciecza","Wisła Kraków",3,3
+2017-11-24,17,"Cracovia","Lechia Gdańsk",2,1
+2017-11-24,17,"Górnik Zabrze","Jagiellonia Białystok",3,1
+2017-11-25,17,"Korona Kielce","Legia Warszawa",3,2
+2017-11-26,17,"Lech Poznań","Wisła Płock",2,1
+2017-11-25,17,"Pogoń Szczecin","Piast Gliwice",2,2
+2017-11-26,17,"Śląsk Wrocław","Zagłębie Lubin",1,0
+2017-12-04,18,"Cracovia","Korona Kielce",2,2
+2017-12-01,18,"Jagiellonia Białystok","Pogoń Szczecin",1,0
+2017-12-01,18,"Lechia Gdańsk","Śląsk Wrocław",3,1
+2017-12-03,18,"Piast Gliwice","Lech Poznań",0,0
+2017-12-02,18,"Sandecja Nowy Sącz","Legia Warszawa",2,2
+2017-12-03,18,"Wisła Kraków","Górnik Zabrze",2,3
+2017-12-02,18,"Wisła Płock","Arka Gdynia",2,0
+2017-12-02,18,"Zagłębie Lubin","Bruk-Bet Termalica Nieciecza",4,2
+2017-12-08,19,"Górnik Zabrze","Lechia Gdańsk",1,1
+2017-12-09,19,"Korona Kielce","Arka Gdynia",0,3
+2017-12-10,19,"Lech Poznań","Cracovia",1,0
+2017-12-09,19,"Legia Warszawa","Bruk-Bet Termalica Nieciecza",3,0
+2017-12-10,19,"Pogoń Szczecin","Zagłębie Lubin",3,3
+2017-12-08,19,"Sandecja Nowy Sącz","Jagiellonia Białystok",0,1
+2017-12-09,19,"Śląsk Wrocław","Piast Gliwice",2,2
+2017-12-10,19,"Wisła Kraków","Wisła Płock",0,1
+2017-12-12,20,"Arka Gdynia","Górnik Zabrze",1,0
+2017-12-12,20,"Bruk-Bet Termalica Nieciecza","Śląsk Wrocław",2,1
+2017-12-13,20,"Cracovia","Wisła Kraków",1,4
+2017-12-12,20,"Jagiellonia Białystok","Korona Kielce",5,1
+2017-12-13,20,"Lechia Gdańsk","Pogoń Szczecin",1,3
+2017-12-12,20,"Piast Gliwice","Legia Warszawa",0,1
+2017-12-13,20,"Wisła Płock","Sandecja Nowy Sącz",2,2
+2017-12-13,20,"Zagłębie Lubin","Lech Poznań",0,0
+2017-12-18,21,"Górnik Zabrze","Cracovia",0,4
+2017-12-15,21,"Korona Kielce","Piast Gliwice",1,1
+2017-12-17,21,"Lech Poznań","Bruk-Bet Termalica Nieciecza",3,1
+2017-12-16,21,"Legia Warszawa","Wisła Płock",0,2
+2017-12-16,21,"Pogoń Szczecin","Arka Gdynia",1,0
+2017-12-16,21,"Sandecja Nowy Sącz","Lechia Gdańsk",2,2
+2017-12-15,21,"Śląsk Wrocław","Jagiellonia Białystok",1,0
+2017-12-17,21,"Wisła Kraków","Zagłębie Lubin",1,2
+2018-02-11,22,"Arka Gdynia","Lech Poznań",0,0
+2018-02-11,22,"Bruk-Bet Termalica Nieciecza","Korona Kielce",0,3
+2018-02-10,22,"Cracovia","Śląsk Wrocław",2,1
+2018-02-10,22,"Lechia Gdańsk","Wisła Kraków",1,1
+2018-02-12,22,"Piast Gliwice","Jagiellonia Białystok",0,2
+2018-02-10,22,"Pogoń Szczecin","Sandecja Nowy Sącz",4,1
+2018-02-09,22,"Wisła Płock","Górnik Zabrze",4,2
+2018-02-09,22,"Zagłębie Lubin","Legia Warszawa",2,3
+2018-02-19,23,"Górnik Zabrze","Bruk-Bet Termalica Nieciecza",3,0
+2018-02-17,23,"Jagiellonia Białystok","Cracovia",1,0
+2018-02-18,23,"Lech Poznań","Pogoń Szczecin",2,0
+2018-02-18,23,"Lechia Gdańsk","Piast Gliwice",0,2
+2018-02-16,23,"Legia Warszawa","Śląsk Wrocław",4,1
+2018-02-16,23,"Sandecja Nowy Sącz","Korona Kielce",3,3
+2018-02-17,23,"Wisła Kraków","Arka Gdynia",3,2
+2018-02-17,23,"Wisła Płock","Zagłębie Lubin",2,0
+2018-02-24,24,"Bruk-Bet Termalica Nieciecza","Sandecja Nowy Sącz",1,0
+2018-02-24,24,"Cracovia","Legia Warszawa",0,0
+2018-02-23,24,"Jagiellonia Białystok","Lechia Gdańsk",4,1
+2018-02-25,24,"Korona Kielce","Lech Poznań",1,0
+2018-02-25,24,"Piast Gliwice","Wisła Kraków",0,0
+2018-02-24,24,"Pogoń Szczecin","Wisła Płock",2,1
+2018-02-25,24,"Śląsk Wrocław","Górnik Zabrze",1,1
+2018-02-23,24,"Zagłębie Lubin","Arka Gdynia",0,0
+2018-02-28,25,"Arka Gdynia","Piast Gliwice",0,0
+2018-02-28,25,"Górnik Zabrze","Pogoń Szczecin",0,0
+2018-02-28,25,"Lech Poznań","Śląsk Wrocław",2,1
+2018-02-27,25,"Lechia Gdańsk","Bruk-Bet Termalica Nieciecza",2,2
+2018-02-27,25,"Legia Warszawa","Jagiellonia Białystok",0,2
+2018-02-27,25,"Sandecja Nowy Sącz","Zagłębie Lubin",0,1
+2018-02-28,25,"Wisła Kraków","Korona Kielce",1,1
+2018-02-27,25,"Wisła Płock","Cracovia",0,1
+2018-03-02,26,"Bruk-Bet Termalica Nieciecza","Wisła Płock",1,2
+2018-03-04,26,"Cracovia","Arka Gdynia",2,1
+2018-03-05,26,"Jagiellonia Białystok","Wisła Kraków",2,0
+2018-03-03,26,"Korona Kielce","Pogoń Szczecin",0,0
+2018-03-04,26,"Legia Warszawa","Lech Poznań",2,1
+2018-03-03,26,"Piast Gliwice","Górnik Zabrze",0,3
+2018-03-03,26,"Śląsk Wrocław","Sandecja Nowy Sącz",0,0
+2018-03-02,26,"Zagłębie Lubin","Lechia Gdańsk",0,0
+2018-03-12,27,"Arka Gdynia","Bruk-Bet Termalica Nieciecza",4,0
+2018-03-09,27,"Górnik Zabrze","Zagłębie Lubin",2,2
+2018-03-11,27,"Lech Poznań","Jagiellonia Białystok",5,1
+2018-03-11,27,"Lechia Gdańsk","Legia Warszawa",1,3
+2018-03-10,27,"Pogoń Szczecin","Cracovia",0,3
+2018-03-10,27,"Sandecja Nowy Sącz","Piast Gliwice",0,3
+2018-03-09,27,"Wisła Kraków","Śląsk Wrocław",3,1
+2018-03-10,27,"Wisła Płock","Korona Kielce",2,0
+2018-03-17,28,"Bruk-Bet Termalica Nieciecza","Pogoń Szczecin",2,4
+2018-03-18,28,"Cracovia","Sandecja Nowy Sącz",2,1
+2018-03-17,28,"Jagiellonia Białystok","Arka Gdynia",3,2
+2018-03-17,28,"Korona Kielce","Górnik Zabrze",2,2
+2018-03-16,28,"Lech Poznań","Lechia Gdańsk",3,0
+2018-03-18,28,"Legia Warszawa","Wisła Kraków",0,2
+2018-03-16,28,"Piast Gliwice","Zagłębie Lubin",0,0
+2018-03-18,28,"Śląsk Wrocław","Wisła Płock",1,1
+2018-03-31,29,"Arka Gdynia","Legia Warszawa",1,0
+2018-03-31,29,"Bruk-Bet Termalica Nieciecza","Cracovia",2,0
+2018-03-31,29,"Górnik Zabrze","Sandecja Nowy Sącz",2,2
+2018-03-31,29,"Korona Kielce","Lechia Gdańsk",1,0
+2018-04-02,29,"Pogoń Szczecin","Śląsk Wrocław",3,2
+2018-04-02,29,"Wisła Kraków","Lech Poznań",1,3
+2018-04-02,29,"Wisła Płock","Piast Gliwice",1,0
+2018-04-02,29,"Zagłębie Lubin","Jagiellonia Białystok",1,0
+2018-04-07,30,"Cracovia","Zagłębie Lubin",2,2
+2018-04-07,30,"Jagiellonia Białystok","Wisła Płock",1,3
+2018-04-07,30,"Lech Poznań","Górnik Zabrze",3,1
+2018-04-07,30,"Lechia Gdańsk","Arka Gdynia",4,2
+2018-04-07,30,"Legia Warszawa","Pogoń Szczecin",3,0
+2018-04-07,30,"Piast Gliwice","Bruk-Bet Termalica Nieciecza",1,1
+2018-04-07,30,"Sandecja Nowy Sącz","Wisła Kraków",0,0
+2018-04-07,30,"Śląsk Wrocław","Korona Kielce",1,1
+2018-04-13,31,"Lech Poznań","Korona Kielce",0,1
+2018-04-14,31,"Jagiellonia Białystok","Górnik Zabrze",1,2
+2018-04-14,31,"Legia Warszawa","Zagłębie Lubin",0,1
+2018-04-16,31,"Wisła Płock","Wisła Kraków",2,2
+2018-04-13,31,"Arka Gdynia","Lechia Gdańsk",1,2
+2018-04-14,31,"Cracovia","Piast Gliwice",2,1
+2018-04-15,31,"Śląsk Wrocław","Sandecja Nowy Sącz",1,0
+2018-04-15,31,"Pogoń Szczecin","Bruk-Bet Termalica Nieciecza",2,0
+2018-04-20,32,"Zagłębie Lubin","Lech Poznań",0,1
+2018-04-21,32,"Górnik Zabrze","Wisła Płock",0,1
+2018-04-21,32,"Korona Kielce","Jagiellonia Białystok",0,3
+2018-04-22,32,"Wisła Kraków","Legia Warszawa",0,1
+2018-04-22,32,"Sandecja Nowy Sącz","Arka Gdynia",3,1
+2018-04-21,32,"Piast Gliwice","Pogoń Szczecin",0,0
+2018-04-23,32,"Lechia Gdańsk","Cracovia",0,0
+2018-04-20,32,"Bruk-Bet Termalica Nieciecza","Śląsk Wrocław",1,2
+2018-04-28,33,"Lech Poznań","Górnik Zabrze",2,4
+2018-04-28,33,"Wisła Płock","Zagłębie Lubin",1,2
+2018-04-29,33,"Jagiellonia Białystok","Wisła Kraków",0,1
+2018-04-27,33,"Legia Warszawa","Korona Kielce",3,1
+2018-04-27,33,"Arka Gdynia","Piast Gliwice",1,5
+2018-04-28,33,"Pogoń Szczecin","Sandecja Nowy Sącz",2,0
+2018-04-29,33,"Cracovia","Bruk-Bet Termalica Nieciecza",4,2
+2018-04-30,33,"Śląsk Wrocław","Lechia Gdańsk",3,1
+2018-05-05,34,"Wisła Płock","Lech Poznań",0,0
+2018-05-06,34,"Jagiellonia Białystok","Legia Warszawa",0,0
+2018-05-06,34,"Korona Kielce","Wisła Kraków",0,3
+2018-05-06,34,"Zagłębie Lubin","Górnik Zabrze",0,2
+2018-05-05,34,"Pogoń Szczecin","Arka Gdynia",3,2
+2018-05-04,34,"Cracovia","Śląsk Wrocław",3,3
+2018-05-04,34,"Lechia Gdańsk","Bruk-Bet Termalica Nieciecza",0,1
+2018-05-05,34,"Sandecja Nowy Sącz","Piast Gliwice",2,1
+2018-05-09,35,"Lech Poznań","Jagiellonia Białystok",0,2
+2018-05-09,35,"Legia Warszawa","Wisła Płock",3,2
+2018-05-09,35,"Górnik Zabrze","Korona Kielce",2,2
+2018-05-09,35,"Wisła Kraków","Zagłębie Lubin",3,0
+2018-05-08,35,"Arka Gdynia","Cracovia",2,0
+2018-05-08,35,"Śląsk Wrocław","Pogoń Szczecin",2,0
+2018-05-08,35,"Piast Gliwice","Lechia Gdańsk",0,2
+2018-05-08,35,"Bruk-Bet Termalica Nieciecza","Sandecja Nowy Sącz",1,1
+2018-05-13,36,"Wisła Kraków","Lech Poznań",1,1
+2018-05-13,36,"Legia Warszawa","Górnik Zabrze",2,0
+2018-05-13,36,"Zagłębie Lubin","Jagiellonia Białystok",1,2
+2018-05-13,36,"Wisła Płock","Korona Kielce",4,1
+2018-05-12,36,"Bruk-Bet Termalica Nieciecza","Arka Gdynia",2,1
+2018-05-12,36,"Śląsk Wrocław","Piast Gliwice",3,1
+2018-05-12,36,"Sandecja Nowy Sącz","Cracovia",0,1
+2018-05-12,36,"Pogoń Szczecin","Lechia Gdańsk",1,1
+2018-05-20,37,"Lech Poznań","Legia Warszawa",0,3
+2018-05-20,37,"Górnik Zabrze","Wisła Kraków",2,0
+2018-05-20,37,"Jagiellonia Białystok","Wisła Płock",2,1
+2018-05-20,37,"Korona Kielce","Zagłębie Lubin",0,2
+2018-05-19,37,"Arka Gdynia","Śląsk Wrocław",0,1
+2018-05-19,37,"Piast Gliwice","Bruk-Bet Termalica Nieciecza",4,0
+2018-05-19,37,"Cracovia","Pogoń Szczecin",1,4
+2018-05-19,37,"Lechia Gdańsk","Sandecja Nowy Sącz",1,1

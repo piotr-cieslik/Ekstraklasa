@@ -1,0 +1,297 @@
+"date","round","home","away","home_score","away_score"
+2014-07-18,1,"Górnik Łęczna","Wisła Kraków",1,1
+2014-07-21,1,"Górnik Zabrze","Cracovia",2,0
+2014-07-19,1,"Jagiellonia Białystok","Lechia Gdańsk",2,2
+2014-07-20,1,"Lech Poznań","Piast Gliwice",4,0
+2014-07-19,1,"Legia Warszawa","GKS Bełchatów",0,1
+2014-07-18,1,"Podbeskidzie Bielsko-Biała","Pogoń Szczecin",2,3
+2014-07-20,1,"Śląsk Wrocław","Ruch Chorzów",2,0
+2014-07-20,1,"Zawisza Bydgoszcz","Korona Kielce",2,0
+2014-07-26,2,"Cracovia","Legia Warszawa",1,3
+2014-07-25,2,"GKS Bełchatów","Korona Kielce",2,0
+2014-07-27,2,"Górnik Zabrze","Lech Poznań",1,1
+2014-07-25,2,"Lechia Gdańsk","Podbeskidzie Bielsko-Biała",1,0
+2014-07-26,2,"Pogoń Szczecin","Śląsk Wrocław",4,1
+2014-07-27,2,"Ruch Chorzów","Górnik Łęczna",1,2
+2014-07-28,2,"Wisła Kraków","Piast Gliwice",1,1
+2014-07-27,2,"Zawisza Bydgoszcz","Jagiellonia Białystok",1,3
+2014-08-04,3,"Górnik Łęczna","GKS Bełchatów",1,1
+2014-08-01,3,"Jagiellonia Białystok","Cracovia",2,1
+2014-08-02,3,"Korona Kielce","Pogoń Szczecin",2,2
+2014-08-03,3,"Lech Poznań","Wisła Kraków",2,3
+2014-08-02,3,"Legia Warszawa","Górnik Zabrze",1,1
+2014-08-01,3,"Piast Gliwice","Lechia Gdańsk",1,3
+2014-08-03,3,"Podbeskidzie Bielsko-Biała","Ruch Chorzów",3,0
+2014-08-03,3,"Śląsk Wrocław","Zawisza Bydgoszcz",2,1
+2014-08-08,4,"Cracovia","Korona Kielce",2,1
+2014-08-09,4,"GKS Bełchatów","Śląsk Wrocław",2,0
+2014-08-08,4,"Górnik Zabrze","Jagiellonia Białystok",3,0
+2014-08-10,4,"Lechia Gdańsk","Lech Poznań",1,2
+2014-08-09,4,"Legia Warszawa","Górnik Łęczna",5,0
+2014-08-11,4,"Pogoń Szczecin","Piast Gliwice",0,0
+2014-08-10,4,"Wisła Kraków","Ruch Chorzów",2,2
+2014-08-10,4,"Zawisza Bydgoszcz","Podbeskidzie Bielsko-Biała",1,2
+2014-08-16,5,"Górnik Łęczna","Zawisza Bydgoszcz",5,2
+2014-08-15,5,"Jagiellonia Białystok","Legia Warszawa",0,3
+2014-08-15,5,"Korona Kielce","Górnik Zabrze",0,3
+2014-08-16,5,"Lech Poznań","Pogoń Szczecin",1,1
+2014-08-16,5,"Piast Gliwice","Ruch Chorzów",0,1
+2014-08-18,5,"Podbeskidzie Bielsko-Biała","GKS Bełchatów",1,1
+2014-08-17,5,"Śląsk Wrocław","Cracovia",0,0
+2014-08-17,5,"Wisła Kraków","Lechia Gdańsk",3,1
+2014-08-23,6,"Cracovia","Podbeskidzie Bielsko-Biała",1,3
+2014-08-25,6,"GKS Bełchatów","Piast Gliwice",0,0
+2014-08-23,6,"Górnik Zabrze","Górnik Łęczna",2,0
+2014-08-23,6,"Jagiellonia Białystok","Śląsk Wrocław",1,3
+2014-08-24,6,"Legia Warszawa","Korona Kielce",2,0
+2014-08-22,6,"Pogoń Szczecin","Wisła Kraków",0,3
+2014-08-24,6,"Ruch Chorzów","Lech Poznań",0,0
+2014-08-22,6,"Zawisza Bydgoszcz","Lechia Gdańsk",0,2
+2014-08-30,7,"Górnik Łęczna","Pogoń Szczecin",4,2
+2014-08-30,7,"Korona Kielce","Jagiellonia Białystok",0,3
+2014-08-31,7,"Lech Poznań","Cracovia",1,1
+2014-08-31,7,"Lechia Gdańsk","Ruch Chorzów",3,3
+2014-08-29,7,"Piast Gliwice","Zawisza Bydgoszcz",3,0
+2014-08-31,7,"Podbeskidzie Bielsko-Biała","Legia Warszawa",2,1
+2014-08-30,7,"Śląsk Wrocław","Górnik Zabrze",2,0
+2014-08-29,7,"Wisła Kraków","GKS Bełchatów",1,0
+2014-09-13,8,"Cracovia","Górnik Łęczna",2,1
+2014-09-14,8,"GKS Bełchatów","Lechia Gdańsk",1,1
+2014-09-14,8,"Górnik Zabrze","Piast Gliwice",1,2
+2014-09-13,8,"Jagiellonia Białystok","Lech Poznań",1,0
+2014-09-15,8,"Korona Kielce","Podbeskidzie Bielsko-Biała",2,1
+2014-09-13,8,"Legia Warszawa","Śląsk Wrocław",4,3
+2014-09-12,8,"Pogoń Szczecin","Ruch Chorzów",1,1
+2014-09-12,8,"Zawisza Bydgoszcz","Wisła Kraków",2,4
+2014-09-22,9,"Górnik Łęczna","Jagiellonia Białystok",0,0
+2014-09-20,9,"Lech Poznań","Zawisza Bydgoszcz",6,2
+2014-09-19,9,"Lechia Gdańsk","Pogoń Szczecin",0,1
+2014-09-20,9,"Piast Gliwice","Cracovia",4,2
+2014-09-20,9,"Podbeskidzie Bielsko-Biała","Górnik Zabrze",0,3
+2014-09-21,9,"Ruch Chorzów","GKS Bełchatów",0,1
+2014-09-19,9,"Śląsk Wrocław","Korona Kielce",1,0
+2014-09-21,9,"Wisła Kraków","Legia Warszawa",0,3
+2014-09-28,10,"Cracovia","Wisła Kraków",1,0
+2014-09-27,10,"GKS Bełchatów","Pogoń Szczecin",1,0
+2014-09-28,10,"Górnik Zabrze","Lechia Gdańsk",2,2
+2014-09-29,10,"Jagiellonia Białystok","Podbeskidzie Bielsko-Biała",4,2
+2014-09-26,10,"Korona Kielce","Piast Gliwice",1,0
+2014-09-27,10,"Legia Warszawa","Lech Poznań",2,2
+2014-09-26,10,"Śląsk Wrocław","Górnik Łęczna",2,1
+2014-09-27,10,"Zawisza Bydgoszcz","Ruch Chorzów",1,1
+2014-10-04,11,"Górnik Łęczna","Korona Kielce",1,0
+2014-10-05,11,"Lech Poznań","GKS Bełchatów",5,0
+2014-10-04,11,"Lechia Gdańsk","Cracovia",1,0
+2014-10-05,11,"Piast Gliwice","Legia Warszawa",3,1
+2014-10-03,11,"Podbeskidzie Bielsko-Biała","Śląsk Wrocław",2,2
+2014-10-05,11,"Pogoń Szczecin","Zawisza Bydgoszcz",3,0
+2014-10-04,11,"Ruch Chorzów","Górnik Zabrze",1,2
+2014-10-03,11,"Wisła Kraków","Jagiellonia Białystok",0,2
+2014-10-17,12,"Cracovia","Ruch Chorzów",1,0
+2014-10-19,12,"Górnik Zabrze","Wisła Kraków",0,5
+2014-10-18,12,"Jagiellonia Białystok","Pogoń Szczecin",5,0
+2014-10-19,12,"Korona Kielce","Lech Poznań",2,2
+2014-10-17,12,"Legia Warszawa","Lechia Gdańsk",1,0
+2014-10-18,12,"Podbeskidzie Bielsko-Biała","Górnik Łęczna",1,0
+2014-10-18,12,"Śląsk Wrocław","Piast Gliwice",3,0
+2014-10-20,12,"Zawisza Bydgoszcz","GKS Bełchatów",2,1
+2014-10-24,13,"GKS Bełchatów","Górnik Zabrze",1,0
+2014-10-26,13,"Lech Poznań","Górnik Łęczna",1,0
+2014-10-25,13,"Lechia Gdańsk","Śląsk Wrocław",1,4
+2014-10-25,13,"Piast Gliwice","Jagiellonia Białystok",0,2
+2014-10-25,13,"Pogoń Szczecin","Cracovia",2,1
+2014-10-27,13,"Ruch Chorzów","Korona Kielce",0,1
+2014-10-24,13,"Wisła Kraków","Podbeskidzie Bielsko-Biała",3,2
+2014-10-26,13,"Zawisza Bydgoszcz","Legia Warszawa",1,2
+2014-11-02,14,"Cracovia","Zawisza Bydgoszcz",1,0
+2014-10-31,14,"Górnik Łęczna","Lechia Gdańsk",1,1
+2014-11-02,14,"Górnik Zabrze","Pogoń Szczecin",1,1
+2014-11-03,14,"Jagiellonia Białystok","GKS Bełchatów",0,1
+2014-10-31,14,"Korona Kielce","Wisła Kraków",3,2
+2014-11-02,14,"Legia Warszawa","Ruch Chorzów",2,1
+2014-11-03,14,"Podbeskidzie Bielsko-Biała","Piast Gliwice",2,4
+2014-11-02,14,"Śląsk Wrocław","Lech Poznań",1,1
+2014-11-08,15,"GKS Bełchatów","Cracovia",1,1
+2014-11-07,15,"Lech Poznań","Podbeskidzie Bielsko-Biała",1,1
+2014-11-08,15,"Lechia Gdańsk","Korona Kielce",1,2
+2014-11-07,15,"Piast Gliwice","Górnik Łęczna",0,0
+2014-11-09,15,"Pogoń Szczecin","Legia Warszawa",2,1
+2014-11-09,15,"Ruch Chorzów","Jagiellonia Białystok",5,2
+2014-11-08,15,"Wisła Kraków","Śląsk Wrocław",1,1
+2014-11-09,15,"Zawisza Bydgoszcz","Górnik Zabrze",1,2
+2014-11-24,16,"Cracovia","Górnik Zabrze",1,2
+2014-11-21,16,"GKS Bełchatów","Legia Warszawa",0,3
+2014-11-22,16,"Korona Kielce","Zawisza Bydgoszcz",2,2
+2014-11-23,16,"Lechia Gdańsk","Jagiellonia Białystok",1,1
+2014-11-23,16,"Piast Gliwice","Lech Poznań",3,2
+2014-11-22,16,"Pogoń Szczecin","Podbeskidzie Bielsko-Biała",1,2
+2014-11-21,16,"Ruch Chorzów","Śląsk Wrocław",1,0
+2014-11-22,16,"Wisła Kraków","Górnik Łęczna",2,0
+2014-11-28,17,"Górnik Łęczna","Ruch Chorzów",3,0
+2014-11-29,17,"Jagiellonia Białystok","Zawisza Bydgoszcz",0,0
+2014-11-29,17,"Korona Kielce","GKS Bełchatów",2,0
+2014-11-30,17,"Lech Poznań","Górnik Zabrze",3,0
+2014-12-01,17,"Legia Warszawa","Cracovia",2,0
+2014-11-28,17,"Piast Gliwice","Wisła Kraków",0,0
+2014-11-29,17,"Podbeskidzie Bielsko-Biała","Lechia Gdańsk",1,0
+2014-11-30,17,"Śląsk Wrocław","Pogoń Szczecin",1,1
+2014-12-06,18,"Cracovia","Jagiellonia Białystok",1,1
+2014-12-06,18,"GKS Bełchatów","Górnik Łęczna",1,1
+2014-12-05,18,"Górnik Zabrze","Legia Warszawa",0,4
+2014-12-07,18,"Lechia Gdańsk","Piast Gliwice",3,1
+2014-12-06,18,"Pogoń Szczecin","Korona Kielce",2,0
+2014-12-08,18,"Ruch Chorzów","Podbeskidzie Bielsko-Biała",2,0
+2014-12-07,18,"Wisła Kraków","Lech Poznań",1,2
+2014-12-05,18,"Zawisza Bydgoszcz","Śląsk Wrocław",0,1
+2014-12-14,19,"Górnik Łęczna","Legia Warszawa",3,1
+2014-12-13,19,"Jagiellonia Białystok","Górnik Zabrze",1,0
+2014-12-12,19,"Korona Kielce","Cracovia",1,2
+2014-12-13,19,"Lech Poznań","Lechia Gdańsk",1,0
+2014-12-15,19,"Piast Gliwice","Pogoń Szczecin",1,0
+2014-12-14,19,"Podbeskidzie Bielsko-Biała","Zawisza Bydgoszcz",2,1
+2014-12-13,19,"Ruch Chorzów","Wisła Kraków",1,2
+2014-12-12,19,"Śląsk Wrocław","GKS Bełchatów",2,1
+2015-02-15,20,"Cracovia","Śląsk Wrocław",1,1
+2015-02-14,20,"GKS Bełchatów","Podbeskidzie Bielsko-Biała",1,2
+2015-02-16,20,"Górnik Zabrze","Korona Kielce",1,1
+2015-02-13,20,"Lechia Gdańsk","Wisła Kraków",1,0
+2015-02-15,20,"Legia Warszawa","Jagiellonia Białystok",1,3
+2015-02-14,20,"Pogoń Szczecin","Lech Poznań",1,1
+2015-02-14,20,"Ruch Chorzów","Piast Gliwice",2,0
+2015-02-13,20,"Zawisza Bydgoszcz","Górnik Łęczna",0,0
+2015-02-21,21,"Górnik Łęczna","Górnik Zabrze",0,1
+2015-02-22,21,"Korona Kielce","Legia Warszawa",0,0
+2015-02-22,21,"Lech Poznań","Ruch Chorzów",2,1
+2015-02-21,21,"Lechia Gdańsk","Zawisza Bydgoszcz",0,0
+2015-02-23,21,"Piast Gliwice","GKS Bełchatów",3,1
+2015-02-20,21,"Podbeskidzie Bielsko-Biała","Cracovia",1,1
+2015-02-21,21,"Śląsk Wrocław","Jagiellonia Białystok",0,1
+2015-02-20,21,"Wisła Kraków","Pogoń Szczecin",1,1
+2015-02-27,22,"Cracovia","Lech Poznań",0,0
+2015-02-28,22,"GKS Bełchatów","Wisła Kraków",3,1
+2015-02-28,22,"Górnik Zabrze","Śląsk Wrocław",3,3
+2015-03-01,22,"Jagiellonia Białystok","Korona Kielce",1,2
+2015-03-01,22,"Legia Warszawa","Podbeskidzie Bielsko-Biała",3,0
+2015-03-02,22,"Pogoń Szczecin","Górnik Łęczna",0,1
+2015-02-27,22,"Ruch Chorzów","Lechia Gdańsk",1,1
+2015-02-28,22,"Zawisza Bydgoszcz","Piast Gliwice",2,0
+2015-03-09,23,"Górnik Łęczna","Cracovia",2,1
+2015-03-06,23,"Lech Poznań","Jagiellonia Białystok",2,0
+2015-03-07,23,"Lechia Gdańsk","GKS Bełchatów",1,0
+2015-03-07,23,"Piast Gliwice","Górnik Zabrze",2,2
+2015-03-08,23,"Podbeskidzie Bielsko-Biała","Korona Kielce",2,2
+2015-03-06,23,"Ruch Chorzów","Pogoń Szczecin",2,1
+2015-03-08,23,"Śląsk Wrocław","Legia Warszawa",1,3
+2015-03-07,23,"Wisła Kraków","Zawisza Bydgoszcz",0,1
+2015-03-13,24,"Cracovia","Piast Gliwice",3,1
+2015-03-16,24,"GKS Bełchatów","Ruch Chorzów",0,1
+2015-03-14,24,"Górnik Zabrze","Podbeskidzie Bielsko-Biała",3,3
+2015-03-14,24,"Jagiellonia Białystok","Górnik Łęczna",2,1
+2015-03-15,24,"Korona Kielce","Śląsk Wrocław",2,2
+2015-03-15,24,"Legia Warszawa","Wisła Kraków",2,2
+2015-03-13,24,"Pogoń Szczecin","Lechia Gdańsk",0,1
+2015-03-14,24,"Zawisza Bydgoszcz","Lech Poznań",1,0
+2015-03-20,25,"Górnik Łęczna","Śląsk Wrocław",1,1
+2015-03-22,25,"Lech Poznań","Legia Warszawa",2,1
+2015-03-21,25,"Lechia Gdańsk","Górnik Zabrze",1,0
+2015-03-22,25,"Piast Gliwice","Korona Kielce",1,2
+2015-03-22,25,"Podbeskidzie Bielsko-Biała","Jagiellonia Białystok",1,0
+2015-03-20,25,"Pogoń Szczecin","GKS Bełchatów",3,0
+2015-03-21,25,"Ruch Chorzów","Zawisza Bydgoszcz",1,2
+2015-03-21,25,"Wisła Kraków","Cracovia",2,1
+2015-04-04,26,"Cracovia","Lechia Gdańsk",3,2
+2015-04-04,26,"GKS Bełchatów","Lech Poznań",1,2
+2015-04-06,26,"Górnik Zabrze","Ruch Chorzów",2,2
+2015-04-06,26,"Jagiellonia Białystok","Wisła Kraków",2,2
+2015-04-06,26,"Korona Kielce","Górnik Łęczna",2,0
+2015-04-04,26,"Legia Warszawa","Piast Gliwice",2,0
+2015-04-04,26,"Śląsk Wrocław","Podbeskidzie Bielsko-Biała",0,0
+2015-04-07,26,"Zawisza Bydgoszcz","Pogoń Szczecin",2,1
+2015-04-12,27,"GKS Bełchatów","Zawisza Bydgoszcz",1,4
+2015-04-13,27,"Górnik Łęczna","Podbeskidzie Bielsko-Biała",0,0
+2015-04-12,27,"Lech Poznań","Korona Kielce",1,1
+2015-04-11,27,"Lechia Gdańsk","Legia Warszawa",1,0
+2015-04-11,27,"Piast Gliwice","Śląsk Wrocław",2,0
+2015-04-11,27,"Pogoń Szczecin","Jagiellonia Białystok",2,0
+2015-04-10,27,"Ruch Chorzów","Cracovia",3,0
+2015-04-10,27,"Wisła Kraków","Górnik Zabrze",1,1
+2015-04-18,28,"Cracovia","Pogoń Szczecin",0,1
+2015-04-19,28,"Górnik Łęczna","Lech Poznań",1,1
+2015-04-20,28,"Górnik Zabrze","GKS Bełchatów",2,0
+2015-04-18,28,"Jagiellonia Białystok","Piast Gliwice",2,1
+2015-04-17,28,"Korona Kielce","Ruch Chorzów",0,0
+2015-04-19,28,"Legia Warszawa","Zawisza Bydgoszcz",2,0
+2015-04-17,28,"Podbeskidzie Bielsko-Biała","Wisła Kraków",2,2
+2015-04-18,28,"Śląsk Wrocław","Lechia Gdańsk",3,0
+2015-04-25,29,"GKS Bełchatów","Jagiellonia Białystok",0,0
+2015-04-25,29,"Lech Poznań","Śląsk Wrocław",2,0
+2015-04-26,29,"Lechia Gdańsk","Górnik Łęczna",2,0
+2015-04-26,29,"Piast Gliwice","Podbeskidzie Bielsko-Biała",3,0
+2015-04-25,29,"Pogoń Szczecin","Górnik Zabrze",3,1
+2015-04-24,29,"Ruch Chorzów","Legia Warszawa",0,0
+2015-04-26,29,"Wisła Kraków","Korona Kielce",2,0
+2015-04-24,29,"Zawisza Bydgoszcz","Cracovia",0,3
+2015-04-29,30,"Cracovia","GKS Bełchatów",3,1
+2015-04-29,30,"Górnik Łęczna","Piast Gliwice",1,2
+2015-04-29,30,"Górnik Zabrze","Zawisza Bydgoszcz",2,1
+2015-04-29,30,"Jagiellonia Białystok","Ruch Chorzów",2,0
+2015-04-29,30,"Korona Kielce","Lechia Gdańsk",3,2
+2015-04-29,30,"Legia Warszawa","Pogoń Szczecin",2,1
+2015-04-29,30,"Podbeskidzie Bielsko-Biała","Lech Poznań",0,2
+2015-04-29,30,"Śląsk Wrocław","Wisła Kraków",1,0
+2015-05-09,31,"Legia Warszawa","Lech Poznań",1,2
+2015-05-08,31,"Jagiellonia Białystok","Śląsk Wrocław",1,1
+2015-05-09,31,"Wisła Kraków","Górnik Zabrze",4,1
+2015-05-09,31,"Pogoń Szczecin","Lechia Gdańsk",1,3
+2015-05-08,31,"Korona Kielce","Ruch Chorzów",0,2
+2015-05-11,31,"Piast Gliwice","Górnik Łęczna",2,3
+2015-05-10,31,"Podbeskidzie Bielsko-Biała","Zawisza Bydgoszcz",2,2
+2015-05-10,31,"Cracovia","GKS Bełchatów",1,1
+2015-05-17,32,"Śląsk Wrocław","Legia Warszawa",1,1
+2015-05-17,32,"Lech Poznań","Jagiellonia Białystok",1,3
+2015-05-17,32,"Górnik Zabrze","Pogoń Szczecin",2,0
+2015-05-15,32,"Lechia Gdańsk","Wisła Kraków",2,2
+2015-05-15,32,"Zawisza Bydgoszcz","Korona Kielce",3,1
+2015-05-16,32,"Górnik Łęczna","Cracovia",0,3
+2015-05-16,32,"Ruch Chorzów","Piast Gliwice",1,1
+2015-05-16,32,"GKS Bełchatów","Podbeskidzie Bielsko-Biała",0,2
+2015-05-20,33,"Legia Warszawa","Jagiellonia Białystok",1,0
+2015-05-20,33,"Wisła Kraków","Pogoń Szczecin",2,2
+2015-05-20,33,"Lech Poznań","Śląsk Wrocław",3,0
+2015-05-20,33,"Górnik Zabrze","Lechia Gdańsk",0,1
+2015-05-19,33,"Korona Kielce","Górnik Łęczna",1,3
+2015-05-19,33,"Cracovia","Zawisza Bydgoszcz",3,1
+2015-05-19,33,"Piast Gliwice","GKS Bełchatów",6,3
+2015-05-19,33,"Podbeskidzie Bielsko-Biała","Ruch Chorzów",0,2
+2015-05-23,34,"Pogoń Szczecin","Legia Warszawa",0,1
+2015-05-23,34,"Jagiellonia Białystok","Wisła Kraków",2,1
+2015-05-24,34,"Lechia Gdańsk","Lech Poznań",1,2
+2015-05-23,34,"Śląsk Wrocław","Górnik Zabrze",1,1
+2015-05-22,34,"Cracovia","Korona Kielce",1,1
+2015-05-24,34,"Piast Gliwice","Podbeskidzie Bielsko-Biała",2,1
+2015-05-25,34,"Ruch Chorzów","GKS Bełchatów",2,4
+2015-05-22,34,"Zawisza Bydgoszcz","Górnik Łęczna",1,1
+2015-05-31,35,"Legia Warszawa","Wisła Kraków",1,0
+2015-05-30,35,"Śląsk Wrocław","Lechia Gdańsk",1,0
+2015-05-31,35,"Lech Poznań","Pogoń Szczecin",1,0
+2015-05-31,35,"Jagiellonia Białystok","Górnik Zabrze",3,2
+2015-05-29,35,"Korona Kielce","Piast Gliwice",2,1
+2015-05-29,35,"Podbeskidzie Bielsko-Biała","Cracovia",0,3
+2015-05-30,35,"Górnik Łęczna","Ruch Chorzów",0,1
+2015-05-30,35,"GKS Bełchatów","Zawisza Bydgoszcz",1,4
+2015-06-03,36,"Lechia Gdańsk","Legia Warszawa",0,0
+2015-06-03,36,"Wisła Kraków","Śląsk Wrocław",0,1
+2015-06-03,36,"Górnik Zabrze","Lech Poznań",1,6
+2015-06-03,36,"Pogoń Szczecin","Jagiellonia Białystok",1,3
+2015-06-02,36,"GKS Bełchatów","Korona Kielce",2,2
+2015-06-02,36,"Podbeskidzie Bielsko-Biała","Górnik Łęczna",1,0
+2015-06-02,36,"Zawisza Bydgoszcz","Piast Gliwice",0,0
+2015-06-02,36,"Cracovia","Ruch Chorzów",1,0
+2015-06-07,37,"Legia Warszawa","Górnik Zabrze",2,0
+2015-06-07,37,"Lech Poznań","Wisła Kraków",0,0
+2015-06-07,37,"Jagiellonia Białystok","Lechia Gdańsk",4,2
+2015-06-07,37,"Śląsk Wrocław","Pogoń Szczecin",2,1
+2015-06-05,37,"Korona Kielce","Podbeskidzie Bielsko-Biała",3,1
+2015-06-05,37,"Górnik Łęczna","GKS Bełchatów",1,0
+2015-06-05,37,"Piast Gliwice","Cracovia",0,3
+2015-06-05,37,"Ruch Chorzów","Zawisza Bydgoszcz",3,2
